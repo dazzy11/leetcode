@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dazzy11/leetcode/tree/master/0234-palindrome-linked-list) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/dazzy11/leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
