@@ -79,3 +79,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dazzy11/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 <!---LeetCode Topics End-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dazzy11&theme=chartreuse-dark&hide_border=true" alt="dazzy11's GitHub Stats" />
