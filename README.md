@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/dazzy11/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dazzy11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dazzy11/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/dazzy11/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dazzy11/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dazzy11/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/dazzy11/leetcode/tree/master/2486-most-frequent-even-element) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/dazzy11/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dazzy11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dazzy11/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dazzy11/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/dazzy11/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dazzy11/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Divide and Conquer
 |  |
