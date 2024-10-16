@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dazzy11/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dazzy11/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dazzy11/leetcode/tree/master/0496-next-greater-element-i) |
+| [1127-last-stone-weight](https://github.com/dazzy11/leetcode/tree/master/1127-last-stone-weight) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dazzy11/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dazzy11/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dazzy11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dazzy11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1127-last-stone-weight](https://github.com/dazzy11/leetcode/tree/master/1127-last-stone-weight) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dazzy11/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Quickselect
 |  |
