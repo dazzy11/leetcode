@@ -4,7 +4,7 @@ class Solution {
         if(n<=0){
             return false;
         }
-        for(int i=0;i<31;i++){
+        while(n!=0){
             if((n&1)==1){
                 count++;
                 if(count>1){
