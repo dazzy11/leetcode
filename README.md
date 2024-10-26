@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/dazzy11/leetcode/tree/master/0496-next-greater-element-i) |
 | [1127-last-stone-weight](https://github.com/dazzy11/leetcode/tree/master/1127-last-stone-weight) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dazzy11/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/dazzy11/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dazzy11/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dazzy11/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dazzy11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dazzy11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/dazzy11/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/dazzy11/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dazzy11/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dazzy11/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dazzy11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dazzy11/leetcode/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/dazzy11/leetcode/tree/master/0670-maximum-swap) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/dazzy11/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dazzy11/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dazzy11/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dazzy11/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/dazzy11/leetcode/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/dazzy11/leetcode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/dazzy11/leetcode/tree/master/1013-fibonacci-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/dazzy11/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1806-count-of-matches-in-tournament](https://github.com/dazzy11/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dazzy11/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dazzy11/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -226,5 +230,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dazzy11/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/dazzy11/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dazzy11&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
