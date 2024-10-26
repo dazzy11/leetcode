@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/dazzy11/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dazzy11/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dazzy11/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dazzy11/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dazzy11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/dazzy11/leetcode/tree/master/1127-last-stone-weight) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dazzy11/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dazzy11/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dazzy11/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dazzy11/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dazzy11/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dazzy11/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/dazzy11/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dazzy11/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dazzy11/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
 |  |
 | ------- |
