@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dazzy11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dazzy11/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dazzy11/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3412-permutation-difference-between-two-strings](https://github.com/dazzy11/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/dazzy11/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2502-sort-the-people](https://github.com/dazzy11/leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/dazzy11/leetcode/tree/master/3194-find-words-containing-character) |
+| [3412-permutation-difference-between-two-strings](https://github.com/dazzy11/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Queue
 |  |
 | ------- |
