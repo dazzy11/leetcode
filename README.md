@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dazzy11/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dazzy11/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dazzy11/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/dazzy11/leetcode/tree/master/0125-valid-palindrome) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dazzy11/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/dazzy11/leetcode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/dazzy11/leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
@@ -249,5 +251,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dazzy11/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dazzy11/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dazzy11&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
