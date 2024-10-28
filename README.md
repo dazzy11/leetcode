@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/dazzy11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/dazzy11/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/dazzy11/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dazzy11/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2502-sort-the-people](https://github.com/dazzy11/leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/dazzy11/leetcode/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dazzy11/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/dazzy11/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/dazzy11/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/dazzy11/leetcode/tree/master/0496-next-greater-element-i) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dazzy11/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dazzy11/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Graph
 |  |
