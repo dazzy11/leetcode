@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/dazzy11/leetcode/tree/master/2580-circular-sentence) |
 | [3194-find-words-containing-character](https://github.com/dazzy11/leetcode/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dazzy11/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3451-string-compression-iii](https://github.com/dazzy11/leetcode/tree/master/3451-string-compression-iii) |
 | [3617-find-the-original-typed-string-i](https://github.com/dazzy11/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Queue
 |  |
