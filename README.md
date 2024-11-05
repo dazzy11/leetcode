@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dazzy11/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dazzy11/leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/dazzy11/leetcode/tree/master/0561-array-partition) |
+| [0909-stone-game](https://github.com/dazzy11/leetcode/tree/master/0909-stone-game) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dazzy11/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1127-last-stone-weight](https://github.com/dazzy11/leetcode/tree/master/1127-last-stone-weight) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dazzy11/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dazzy11/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dazzy11/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/dazzy11/leetcode/tree/master/0053-maximum-subarray) |
+| [0909-stone-game](https://github.com/dazzy11/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/dazzy11/leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dazzy11/leetcode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/dazzy11/leetcode/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/dazzy11/leetcode/tree/master/0670-maximum-swap) |
+| [0909-stone-game](https://github.com/dazzy11/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/dazzy11/leetcode/tree/master/1013-fibonacci-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dazzy11/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1806-count-of-matches-in-tournament](https://github.com/dazzy11/leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/dazzy11/leetcode/tree/master/0909-stone-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dazzy11/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Backtracking
 |  |
