@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dazzy11/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/dazzy11/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/dazzy11/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dazzy11/leetcode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/dazzy11/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dazzy11/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/dazzy11/leetcode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/dazzy11/leetcode/tree/master/0507-perfect-number) |
