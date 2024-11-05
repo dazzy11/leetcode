@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dazzy11/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dazzy11/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/dazzy11/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/dazzy11/leetcode/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/dazzy11/leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/dazzy11/leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dazzy11/leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/dazzy11/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/dazzy11/leetcode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/dazzy11/leetcode/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/dazzy11/leetcode/tree/master/0670-maximum-swap) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dazzy11/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/dazzy11/leetcode/tree/master/1013-fibonacci-number) |
 ## Counting Sort
 |  |
