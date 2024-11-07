@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dazzy11/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dazzy11/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/dazzy11/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dazzy11/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/dazzy11/leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dazzy11/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dazzy11/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/dazzy11/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dazzy11/leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/dazzy11/leetcode/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/dazzy11/leetcode/tree/master/0670-maximum-swap) |
 | [0909-stone-game](https://github.com/dazzy11/leetcode/tree/master/0909-stone-game) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dazzy11/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dazzy11/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dazzy11/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/dazzy11/leetcode/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dazzy11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dazzy11/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/dazzy11/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
