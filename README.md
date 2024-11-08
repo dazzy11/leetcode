@@ -347,4 +347,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dazzy11/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dazzy11&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dazzy11)](https://git.io/streak-stats)
