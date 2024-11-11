@@ -1,9 +1,10 @@
 class Solution {
     public String longestPalindrome(String s) {
         String pal="";
-        for(int i=0;i<s.length();i++){
-            for(int j=i;j<s.length();j++){
-                if(ispal(s.substring(i,j+1))){
+        for (int len = s.length(); len > 0; len--) {
+    for (int i = 0; i <= s.length() - len; i++) { 
+        int j = i + len - 1; 
+        if (ispal(s.substring(i, j + 1))) {
                     String m=s.substring(i,j+1);
                     if(m.length()>pal.length()){
                         pal=m;
