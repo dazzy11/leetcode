@@ -1,29 +1,20 @@
 class Solution {
     public String longestPalindrome(String s) {
-        String pal="";
-        for (int len = s.length(); len > 0; len--) {
-    for (int i = 0; i <= s.length() - len; i++) { 
-        int j = i + len - 1; 
-        if (ispal(s.substring(i, j + 1))) {
-                    String m=s.substring(i,j+1);
-                    if(m.length()>pal.length()){
-                        pal=m;
+        int n=s.length();
+        int start=0,end=1,max=0;
+        boolean[][] dp=new boolean[n][n];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if((s.charAt(i)==s.charAt(j))&&((i-j<2)||dp[i-1][j+1])){
+                    dp[i][j]=true;
+                    if(i-j>max){
+                        max=i-j;
+                        start=j;
+                        end=i+1;
                     }
                 }
-            }   
-        }
-        return pal;
-    }
-    public static boolean ispal(String z){
-        int i=0;
-        int j=z.length()-1;
-        while(i<j){
-            if(z.charAt(i)!=z.charAt(j)){
-                return false;
             }
-            i++;
-            j--;
         }
-        return true;
+        return s.substring(start,end);     
     }
 }
