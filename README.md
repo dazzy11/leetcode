@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/dazzy11/leetcode/tree/master/1916-find-center-of-star-graph) |
+| [3189-find-champion-ii](https://github.com/dazzy11/leetcode/tree/master/3189-find-champion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
