@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/dazzy11/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dazzy11/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dazzy11/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dazzy11/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dazzy11/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dazzy11/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/dazzy11/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [3189-find-champion-ii](https://github.com/dazzy11/leetcode/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dazzy11/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dazzy11/leetcode/tree/master/0100-same-tree) |
 | [0787-sliding-puzzle](https://github.com/dazzy11/leetcode/tree/master/0787-sliding-puzzle) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dazzy11/leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dazzy11/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
 |  |
 | ------- |
