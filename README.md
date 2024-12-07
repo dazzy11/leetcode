@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dazzy11/leetcode/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/dazzy11/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dazzy11/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dazzy11/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/dazzy11/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dazzy11/leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/dazzy11/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dazzy11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/dazzy11/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dazzy11/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dazzy11/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dazzy11/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/dazzy11/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dazzy11/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/dazzy11/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dazzy11/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
