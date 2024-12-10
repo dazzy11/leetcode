@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/dazzy11/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dazzy11/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dazzy11/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dazzy11/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dazzy11/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dazzy11/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/dazzy11/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/dazzy11/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/dazzy11/leetcode/tree/master/3194-find-words-containing-character) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dazzy11/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3379-score-of-a-string](https://github.com/dazzy11/leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/dazzy11/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/dazzy11/leetcode/tree/master/3451-string-compression-iii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dazzy11/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2486-most-frequent-even-element](https://github.com/dazzy11/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dazzy11/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dazzy11/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Array
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dazzy11/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dazzy11/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/dazzy11/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dazzy11/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sorting
 |  |
 | ------- |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/dazzy11/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dazzy11/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/dazzy11/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dazzy11/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/dazzy11/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dazzy11/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Enumeration
