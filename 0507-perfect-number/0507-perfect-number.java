@@ -1,12 +1,16 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        if(num % 2 != 0)
+        if (num < 5)
             return false;
-        int temp=num;
-        for(int i=1;i<=num/2;i++){
-            if(num%i==0)
-                temp-=i;
+        int sum =1;
+
+        for(int i=2; i < ((int) Math.sqrt(num))+1; i++) {
+            System.out.println(i);
+            if(num%i ==0) {
+                sum += i  +  num/i;
+            }
         }
-        return temp==0;
+
+        return num==sum;
     }
 }
