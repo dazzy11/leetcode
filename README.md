@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/dazzy11/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/dazzy11/leetcode/tree/master/0782-jewels-and-stones) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dazzy11/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1256-rank-transform-of-an-array](https://github.com/dazzy11/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dazzy11/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dazzy11/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dazzy11/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dazzy11/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1127-last-stone-weight](https://github.com/dazzy11/leetcode/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dazzy11/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1256-rank-transform-of-an-array](https://github.com/dazzy11/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dazzy11/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dazzy11/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dazzy11/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dazzy11/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/dazzy11/leetcode/tree/master/0561-array-partition) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dazzy11/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1256-rank-transform-of-an-array](https://github.com/dazzy11/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dazzy11/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dazzy11/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dazzy11/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
