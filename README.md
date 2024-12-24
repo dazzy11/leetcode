@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/dazzy11/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dazzy11/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dazzy11/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dazzy11/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dazzy11/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dazzy11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dazzy11/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dazzy11/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/dazzy11/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dazzy11/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dazzy11/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/dazzy11/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/dazzy11/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/dazzy11/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dazzy11/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dazzy11/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dazzy11/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dazzy11/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dazzy11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dazzy11/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
