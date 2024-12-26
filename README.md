@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/dazzy11/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/dazzy11/leetcode/tree/master/0561-array-partition) |
 | [0787-sliding-puzzle](https://github.com/dazzy11/leetcode/tree/master/0787-sliding-puzzle) |
+| [0792-binary-search](https://github.com/dazzy11/leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dazzy11/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/dazzy11/leetcode/tree/master/0909-stone-game) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dazzy11/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dazzy11/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dazzy11/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dazzy11/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/dazzy11/leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dazzy11/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dazzy11/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dazzy11/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
