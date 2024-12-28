@@ -4,7 +4,7 @@ class Solution {
         for(int i=0;i<arr.length;i++)
             map.put(arr[i],i);
         for(int i=0;i<arr.length;i++){
-            if(map.containsKey(arr[i]*2)&&map.get(arr[i]*2)!=i)
+            if(map.containsKey(2*arr[i])&&i!=map.get(2*arr[i]))
                 return true;
         }
         return false;
