@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dazzy11/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dazzy11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/dazzy11/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dazzy11/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dazzy11/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dazzy11/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dazzy11/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dazzy11/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2714-left-and-right-sum-differences](https://github.com/dazzy11/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/dazzy11/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dazzy11/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dazzy11/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3194-find-words-containing-character](https://github.com/dazzy11/leetcode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/dazzy11/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/dazzy11/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dazzy11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dazzy11/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dazzy11/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/dazzy11/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/dazzy11/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/dazzy11/leetcode/tree/master/3394-minimum-array-end) |
