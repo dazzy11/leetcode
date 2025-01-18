@@ -1,10 +1,9 @@
 class Solution {
     public boolean checkIfPangram(String s) {
-        String a="abcdefghijklmnopqrstuvwxyz";
-        for(int i=0;i<a.length();i++){
-            if(!s.contains(String.valueOf(a.charAt(i)))){
-                return false;
-            }
+        String c="abcdefghijklmnopqrstuvwxyz";
+        for(int i=0;i<c.length();i++){
+            if(s.indexOf(c.charAt(i))==-1)
+            return false;
         }
         return true;
     }
