@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dazzy11/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/dazzy11/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dazzy11/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1505-create-target-array-in-the-given-order](https://github.com/dazzy11/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/dazzy11/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dazzy11/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dazzy11/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/dazzy11/leetcode/tree/master/0258-add-digits) |
 | [0874-backspace-string-compare](https://github.com/dazzy11/leetcode/tree/master/0874-backspace-string-compare) |
+| [1505-create-target-array-in-the-given-order](https://github.com/dazzy11/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/dazzy11/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2232-adding-spaces-to-a-string](https://github.com/dazzy11/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/dazzy11/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
