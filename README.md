@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/dazzy11/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1961-maximum-ice-cream-bars](https://github.com/dazzy11/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/dazzy11/leetcode/tree/master/1972-rotating-the-box) |
+| [2058-concatenation-of-array](https://github.com/dazzy11/leetcode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/dazzy11/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dazzy11/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dazzy11/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/dazzy11/leetcode/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/dazzy11/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/dazzy11/leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2058-concatenation-of-array](https://github.com/dazzy11/leetcode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/dazzy11/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/dazzy11/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dazzy11/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
