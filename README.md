@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/dazzy11/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/dazzy11/leetcode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/dazzy11/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dazzy11/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dazzy11/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dazzy11/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/dazzy11/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/dazzy11/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dazzy11/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3321-type-of-triangle](https://github.com/dazzy11/leetcode/tree/master/3321-type-of-triangle) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dazzy11/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/dazzy11/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dazzy11/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/dazzy11/leetcode/tree/master/3567-convert-date-to-binary) |
