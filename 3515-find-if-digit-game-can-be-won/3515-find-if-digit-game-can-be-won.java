@@ -1,14 +1,14 @@
 class Solution {
     public boolean canAliceWin(int[] nums) {
-        int single=0,doub=0;;
+        int sum=0,sum1=0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]<10)
-                single+=nums[i];
+            sum+=nums[i];
             else
-                doub+=nums[i];
+            sum1+=nums[i];
         }
-        if(single==doub)
-            return false;
+        if(sum!=sum1)
         return true;
+        return false;
     }
 }
