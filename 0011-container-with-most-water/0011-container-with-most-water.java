@@ -1,15 +1,18 @@
 class Solution {
     public int maxArea(int[] h) {
+        int l=0;
+        int r=h.length-1;
+        int dist=r;
         int max=0;
-        int j=h.length-1,i=0;
-        while(i<j){
-            int min=Math.min(h[i],h[j]);
-            int sum=min*(j-i);
-            max=Math.max(max,sum);
-            if(h[i]<h[j])
-                i++;
+        while(l<r){
+            int wat=Math.min(h[l],h[r])*dist;
+            max=Math.max(wat,max);
+            dist--;
+            if(h[l]<h[r]){
+                l++;
+            }
             else
-                j--;
+            r--;
         }
         return max;
     }
