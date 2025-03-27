@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dazzy11/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/dazzy11/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dazzy11/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dazzy11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dazzy11/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dazzy11/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dazzy11/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dazzy11/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dazzy11/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dazzy11/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dazzy11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/dazzy11/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dazzy11/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dazzy11/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dazzy11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/dazzy11/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dazzy11/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dazzy11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dazzy11/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dazzy11/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dazzy11/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/dazzy11/leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/dazzy11/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dazzy11/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dazzy11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/dazzy11/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dazzy11/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/dazzy11/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dazzy11/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/dazzy11/leetcode/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/dazzy11/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/dazzy11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/dazzy11/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dazzy11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dazzy11/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
