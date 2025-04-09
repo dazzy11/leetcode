@@ -10,13 +10,6 @@ class Solution {
                 k=nums[i];
             }
         }
-        if(c==0){
-            for(int i=0;i<nums.length;i++){
-                if(n!=nums[i])
-                return -1;
-            }
-            return 0;
-        }
-        return c;
+        return c==0 ? 0:c;
     }
 }
