@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/dazzy11/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/dazzy11/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/dazzy11/leetcode/tree/master/1972-rotating-the-box) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/dazzy11/leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/dazzy11/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/dazzy11/leetcode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/dazzy11/leetcode/tree/master/2089-maximum-matrix-sum) |
