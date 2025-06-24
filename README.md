@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/dazzy11/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dazzy11/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dazzy11/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/dazzy11/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dazzy11/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/dazzy11/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dazzy11/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
