@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/dazzy11/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/dazzy11/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/dazzy11/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dazzy11/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/dazzy11/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dazzy11/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2406-decode-the-message](https://github.com/dazzy11/leetcode/tree/master/2406-decode-the-message) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dazzy11/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/dazzy11/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dazzy11/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dazzy11/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/dazzy11/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/dazzy11/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/dazzy11/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/dazzy11/leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dazzy11/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/dazzy11/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dazzy11/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dazzy11/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/dazzy11/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dazzy11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dazzy11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dazzy11/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/dazzy11/leetcode/tree/master/1127-last-stone-weight) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dazzy11/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dazzy11/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dazzy11/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dazzy11/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
