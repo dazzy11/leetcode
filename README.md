@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dazzy11/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dazzy11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/dazzy11/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/dazzy11/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/dazzy11/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dazzy11/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dazzy11/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dazzy11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dazzy11/leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/dazzy11/leetcode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/dazzy11/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dazzy11/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dazzy11/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dazzy11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/dazzy11/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/dazzy11/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dazzy11/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/dazzy11/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/dazzy11/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/dazzy11/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dazzy11/leetcode/tree/master/0258-add-digits) |
