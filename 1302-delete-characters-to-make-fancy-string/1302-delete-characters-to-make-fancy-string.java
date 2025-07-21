@@ -1,17 +1,15 @@
 class Solution {
     public String makeFancyString(String s) {
-        StringBuilder st=new StringBuilder();
-        if(s.length()<2){
-            return s;
-        }
+        String st="";
+        if(s.length()<3)
+        return s;
         for(int i=0;i<s.length()-2;i++){
-            if(s.charAt(i)==s.charAt(i+1)&&s.charAt(i+1)==s.charAt(i+2)){
-                continue;
-            }
-                st.append(s.charAt(i));
+            if(s.charAt(i)==s.charAt(i+1)&&s.charAt(i+1)==s.charAt(i+2))
+            continue;
+            else
+            st=st+s.charAt(i);
         }
-         st.append(s.charAt(s.length()-2));
-         st.append(s.charAt(s.length()-1));
-        return String.valueOf(st);
+        st=st+s.charAt(s.length()-2)+s.charAt(s.length()-1);
+        return st;
     }
 }
