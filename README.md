@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/dazzy11/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dazzy11/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/dazzy11/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2491-smallest-even-multiple](https://github.com/dazzy11/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/dazzy11/leetcode/tree/master/2507-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dazzy11/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dazzy11/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/dazzy11/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/dazzy11/leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/dazzy11/leetcode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/dazzy11/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/dazzy11/leetcode/tree/master/2507-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dazzy11/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/dazzy11/leetcode/tree/master/2716-prime-subtraction-operation) |
