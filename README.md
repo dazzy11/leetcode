@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/dazzy11/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/dazzy11/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2748-calculate-delayed-arrival-time](https://github.com/dazzy11/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
+| [2857-total-distance-traveled](https://github.com/dazzy11/leetcode/tree/master/2857-total-distance-traveled) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/dazzy11/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/dazzy11/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/dazzy11/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dazzy11/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/dazzy11/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dazzy11/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2857-total-distance-traveled](https://github.com/dazzy11/leetcode/tree/master/2857-total-distance-traveled) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dazzy11/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
 |  |
