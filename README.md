@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dazzy11/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2486-most-frequent-even-element](https://github.com/dazzy11/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/dazzy11/leetcode/tree/master/2502-sort-the-people) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dazzy11/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/dazzy11/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dazzy11/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dazzy11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/dazzy11/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2491-smallest-even-multiple](https://github.com/dazzy11/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/dazzy11/leetcode/tree/master/2507-number-of-common-factors) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dazzy11/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dazzy11/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/dazzy11/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/dazzy11/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
