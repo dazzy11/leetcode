@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/dazzy11/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2406-decode-the-message](https://github.com/dazzy11/leetcode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/dazzy11/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2470-removing-stars-from-a-string](https://github.com/dazzy11/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/dazzy11/leetcode/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/dazzy11/leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/dazzy11/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dazzy11/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/dazzy11/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dazzy11/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/dazzy11/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Graph
 |  |
 | ------- |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/dazzy11/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dazzy11/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dazzy11/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2470-removing-stars-from-a-string](https://github.com/dazzy11/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/dazzy11/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dazzy11/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2857-total-distance-traveled](https://github.com/dazzy11/leetcode/tree/master/2857-total-distance-traveled) |
