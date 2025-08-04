@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dazzy11/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/dazzy11/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/dazzy11/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/dazzy11/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/dazzy11/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dazzy11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/dazzy11/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dazzy11/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dazzy11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/dazzy11/leetcode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/dazzy11/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dazzy11/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dazzy11/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/dazzy11/leetcode/tree/master/0283-move-zeroes) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/dazzy11/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/dazzy11/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dazzy11/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/dazzy11/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/dazzy11/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/dazzy11/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/dazzy11/leetcode/tree/master/0231-power-of-two) |
