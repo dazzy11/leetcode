@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dazzy11/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dazzy11/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2195-time-needed-to-buy-tickets](https://github.com/dazzy11/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dazzy11/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dazzy11/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/dazzy11/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dazzy11/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2195-time-needed-to-buy-tickets](https://github.com/dazzy11/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dazzy11/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/dazzy11/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/dazzy11/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/dazzy11/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/dazzy11/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dazzy11/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2195-time-needed-to-buy-tickets](https://github.com/dazzy11/leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2232-adding-spaces-to-a-string](https://github.com/dazzy11/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/dazzy11/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/dazzy11/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
