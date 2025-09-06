@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/dazzy11/leetcode/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dazzy11/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/dazzy11/leetcode/tree/master/0909-stone-game) |
+| [0932-monotonic-array](https://github.com/dazzy11/leetcode/tree/master/0932-monotonic-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/dazzy11/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/dazzy11/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/dazzy11/leetcode/tree/master/1031-add-to-array-form-of-integer) |
