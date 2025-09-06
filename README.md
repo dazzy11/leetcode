@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/dazzy11/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/dazzy11/leetcode/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dazzy11/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2561-number-of-distinct-averages](https://github.com/dazzy11/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dazzy11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/dazzy11/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/dazzy11/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/dazzy11/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/dazzy11/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dazzy11/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2561-number-of-distinct-averages](https://github.com/dazzy11/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dazzy11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dazzy11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/dazzy11/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/dazzy11/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/dazzy11/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/dazzy11/leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/dazzy11/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dazzy11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dazzy11/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Stack
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dazzy11/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/dazzy11/leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2502-sort-the-people](https://github.com/dazzy11/leetcode/tree/master/2502-sort-the-people) |
+| [2561-number-of-distinct-averages](https://github.com/dazzy11/leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/dazzy11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dazzy11/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/dazzy11/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
