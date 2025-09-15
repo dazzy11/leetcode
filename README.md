@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/dazzy11/leetcode/tree/master/0782-jewels-and-stones) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dazzy11/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/dazzy11/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/dazzy11/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dazzy11/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/dazzy11/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/dazzy11/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/dazzy11/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/dazzy11/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/dazzy11/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/dazzy11/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dazzy11/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dazzy11/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/dazzy11/leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
