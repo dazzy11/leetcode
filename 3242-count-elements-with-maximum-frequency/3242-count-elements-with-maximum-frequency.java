@@ -1,15 +1,19 @@
 class Solution {
-    public int maxFrequencyElements(int[] nums) {
-        int [] arr= new int[101];
-        int max=0,count=0;
-        for(int i=0;i<nums.length;i++){
-            arr[nums[i]]++;
-            max=Math.max(arr[nums[i]],max);
+    public int maxFrequencyElements(int[] n) {
+        int [] a=new int[101];
+        for(int i=0;i<n.length;i++){
+            a[n[i]]++;
         }
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]==max)
-                count++;
+        int c=0,max=0;
+        for(int i=0;i<a.length;i++){
+            if(max<a[i]){
+                max=a[i];
+                c=max;
+            }
+            else if(max==a[i]){
+                c+=max;
+            }
         }
-        return count*max;
+        return c;
     }
 }
