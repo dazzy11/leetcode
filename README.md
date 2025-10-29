@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dazzy11/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/dazzy11/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/dazzy11/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dazzy11/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3817-maximum-containers-on-a-ship](https://github.com/dazzy11/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/dazzy11/leetcode/tree/master/3830-find-closest-person) |
 ## Number Theory
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/dazzy11/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/dazzy11/leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/dazzy11/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dazzy11/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String Matching
 |  |
 | ------- |
