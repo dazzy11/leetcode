@@ -1,17 +1,16 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        int[] arr=new int[2];
+        int[] ans=new int[2];
         int j=0;
+        Set<Integer> s=new HashSet<>();
         for(int i=0;i<nums.length;i++){
-            if(map.containsKey(nums[i])){
-                arr[j]=nums[i];
-                j++;
+            if(s.contains(nums[i])){
+                ans[j++]=nums[i];
             }
-            else
-            map.put(nums[i],1);
+            else{
+                s.add(nums[i]);
+            }
         }
-        return arr;
-        
+        return ans;
     }
 }
