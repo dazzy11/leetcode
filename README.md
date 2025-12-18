@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/dazzy11/leetcode/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dazzy11/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dazzy11/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dazzy11/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/dazzy11/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dazzy11/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dazzy11/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dazzy11/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dazzy11/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dazzy11/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/dazzy11/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dazzy11/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dazzy11/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/dazzy11/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/dazzy11/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/dazzy11/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/dazzy11/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/dazzy11/leetcode/tree/master/3790-fruits-into-baskets-ii) |
